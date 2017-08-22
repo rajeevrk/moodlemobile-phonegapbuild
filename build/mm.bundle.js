@@ -11403,7 +11403,7 @@ angular.module('mm.core.login', [])
         templateUrl: 'core/components/login/templates/credentials.html',
         controller: 'mmLoginCredentialsCtrl',
         params: {
-            siteurl: '',
+            siteurl: 'https://glearn.gitam.edu/',
             username: '',
             urltoopen: '', 
             siteconfig: null
@@ -11420,7 +11420,7 @@ angular.module('mm.core.login', [])
         controller: 'mmLoginReconnectCtrl',
         cache: false,
         params: {
-            siteurl: '',
+            siteurl: 'https://glearn.gitam.edu/',
             username: '',
             infositeurl: '',
             siteid: '',
