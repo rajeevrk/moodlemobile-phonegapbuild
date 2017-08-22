@@ -2,7 +2,7 @@
     "app_id" : "edu.gitam.glearn.android",
     "appname": "GLearn Mobile",
     "desktopappname": "GLearn Desktop",
-    "versioncode" : "2020",
+    "versioncode" : "20191",
     "versionname" : "3.3.1g",
     "cache_expiration_time" : 300000,
     "default_lang" : "en",
